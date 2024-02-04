@@ -36,3 +36,4 @@ This simple JavaScript program simulates the Animal Kingdom using Object-Oriente
         sparrow.eat();
         lion.giveBirth(); // Mammals can give birth
         sparrow.fly();    // Birds can fly
+```
